@@ -1,0 +1,12 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.plugin.flutter.honeywell_scanner" >
+4
+5    <uses-sdk android:minSdkVersion="19" />
+5-->C:\src\flutter\flutter\.pub-cache\hosted\pub.dartlang.org\honeywell_scanner-2.0.0+4\android\src\main\AndroidManifest.xml
+6
+7    <uses-permission android:name="com.honeywell.decode.permission.DECODE" />
+7-->C:\src\flutter\flutter\.pub-cache\hosted\pub.dartlang.org\honeywell_scanner-2.0.0+4\android\src\main\AndroidManifest.xml:3:5-78
+7-->C:\src\flutter\flutter\.pub-cache\hosted\pub.dartlang.org\honeywell_scanner-2.0.0+4\android\src\main\AndroidManifest.xml:3:22-75
+8
+9</manifest>

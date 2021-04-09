@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:honeywell:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../build/honeywell/.transforms/46738901f1a12859b104ea5ca80bcaea/jetified-honeywell/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../build/honeywell/.transforms/46738901f1a12859b104ea5ca80bcaea/jetified-honeywell/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

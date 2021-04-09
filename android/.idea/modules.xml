@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="android/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/364800369/flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/364800369/flutter_plugin_android_lifecycle.iml" group="android/flutter_plugin_android_lifecycle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/honeywell/honeywell.iml" filepath="$PROJECT_DIR$/.idea/modules/honeywell/honeywell.iml" group="android/honeywell" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2099599276/honeywell_scanner.iml" filepath="$PROJECT_DIR$/.idea/modules/-2099599276/honeywell_scanner.iml" group="android/honeywell_scanner" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/145926757/image_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/145926757/image_picker.iml" group="android/image_picker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-416483208/open_file.iml" filepath="$PROJECT_DIR$/.idea/modules/-416483208/open_file.iml" group="android/open_file" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/184749215/path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/184749215/path_provider.iml" group="android/path_provider" />
+    </modules>
+  </component>
+</project>
